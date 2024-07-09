@@ -2,7 +2,7 @@
 
 ## [Task](https://docs.google.com/document/d/1oIUFuMNo5j869IlbIraateHNGp8GDoxg/edit?usp=sharing&ouid=110413687835516313620&rtpof=true&sd=true)
 
-## [Deploy](https://kennykom.github.io/WordGame/)
+## [Deploy](https://wordgamebykenny.netlify.app/)
 
 ## How to run
 
